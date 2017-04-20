@@ -1,0 +1,12 @@
+#+OPTIONS: TOC:nil ;关闭目录
+
+* Awesome Erlang
+  -----
+** Books
+   1. English with Chinese
+      1. Concurrent/并发
+         1. English: [[http://erlang.org/download/erlang-book-part1.pdf][Concurrent Programming in ERLANG]]
+         2. Chinese: [[http://cpie-cn.readthedocs.io/en/latest/index.html][Erlang 并发编程]]
+            - only part 1
+
+
